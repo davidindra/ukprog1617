@@ -1,0 +1,9 @@
+C:\final\105\mesic\bin\Debug\mesic.exe.config
+C:\final\105\mesic\bin\Debug\mesic.exe
+C:\final\105\mesic\bin\Debug\mesic.pdb
+C:\final\105\mesic\obj\Debug\mesic.csprojResolveAssemblyReference.cache
+C:\final\105\mesic\obj\Debug\mesic.Form1.resources
+C:\final\105\mesic\obj\Debug\mesic.Properties.Resources.resources
+C:\final\105\mesic\obj\Debug\mesic.csproj.GenerateResource.Cache
+C:\final\105\mesic\obj\Debug\mesic.exe
+C:\final\105\mesic\obj\Debug\mesic.pdb
